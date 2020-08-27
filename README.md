@@ -7,7 +7,7 @@ You must install:
 
 ## Setup
 1. Clone the repository: `git clone git@github.com:Neofenix/python_gap.git`
-2. Open a console into the repository
+2. Open a console into the repository folder
 
 ## Run app and tests
 1.Command to run the app : ```$ python process_file.py```
