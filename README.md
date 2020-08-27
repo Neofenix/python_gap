@@ -1,4 +1,4 @@
-# Pyton Assessment
+# Python Assessment
 
 ## Prerequisites
 You must install this tool:
