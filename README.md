@@ -10,6 +10,6 @@ You must install:
 2. Open a console into the repository
 
 ## Run code and tests
-1.command to run code : ```$ python process_file.py```
+1.Command to run code : ```$ python process_file.py```
 
-2.command to run tests : ```$ python process_file_tests.py```
+2.Command to run tests : ```$ python process_file_tests.py```
