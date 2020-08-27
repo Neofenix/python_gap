@@ -1,7 +1,7 @@
 # Python Assessment
 
 ## Prerequisites
-You must install this tool:
+You must install:
 
 1. [Python](https://www.python.org/downloads/)
 
