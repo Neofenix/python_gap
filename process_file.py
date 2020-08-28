@@ -1,6 +1,15 @@
 import re
 import os
 
+def main():
+    try:
+        list_words = read_file('word_file.txt')
+        largest_word = find_the_largest_word(list_words)
+        transposed_word= transpose_a_word(largest_word)
+        print("the largest word:", largest_word)
+        print("transposed_word:", transposed_word)
+    except Exception as e:
+        print(e)
 
 def file_is_empty(path):
     """Validate if a file is empty or not
@@ -12,16 +21,6 @@ def file_is_empty(path):
         [False]: return False if file is empty
     """    
     return os.stat(path).st_size == 0
-
-def main():
-    try:
-        list_words = read_file('word_file.txt')
-        largest_word = find_the_largest_word(list_words)
-        transposed_word= transpose_a_word(largest_word)
-        print("the largest word:", largest_word)
-        print("transposed_word:", transposed_word)
-    except Exception as e:
-        print(e)
 
 def read_file(file_name):
     """Read a specific file  
