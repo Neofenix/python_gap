@@ -3,7 +3,7 @@
 ## Prerequisites
 You must install:
 
-1. [Python](https://www.python.org/downloads/)
+1. [Python 3.8.5](https://www.python.org/downloads/)
 
 ## Setup
 1. Clone the repository: `git clone git@github.com:Neofenix/python_gap.git`
