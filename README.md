@@ -4,6 +4,7 @@
 You must install:
 
 1. [Python 3.8.5](https://www.python.org/downloads/)
+2. [git](https://git-scm.com/)
 
 ## Setup
 1. Clone the repository: `$ git clone git@github.com:Neofenix/python_gap.git`
